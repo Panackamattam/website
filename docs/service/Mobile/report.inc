@@ -1,0 +1,1 @@
+<p><a href="pendingtickets.php" class="button6">Pending Tickets</a></button>&nbsp;&nbsp;&nbsp;&nbsp;<a href="resolved.php" class="button6">Resolved Tickets</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="totalrev.php" class="button6">Total Income</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="exprevenue.php" class="button6">Expected Revenue</a></p>

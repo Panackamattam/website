@@ -1,0 +1,1 @@
+<p align="center">&nbsp;&nbsp;&nbsp;<a href="cuser.php" class="button6">Create User</a></button>&nbsp;&nbsp;&nbsp;&nbsp;<a href="edituser.php" class="button6">Edit User</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="changepassword.php" class="button6">Change Password</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="addcat.php" class="button6">Add Catagory</a>&nbsp;&nbsp;&nbsp;</p>

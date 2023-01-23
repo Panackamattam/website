@@ -1,1 +1,0 @@
-<p align="center">&nbsp;&nbsp;<a href="requestpart.php" class="button6">Parts Request</a></button>&nbsp;&nbsp;&nbsp;&nbsp;<a href="partsissue.php" class="button6">Parts Issue</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="listpartsrequest.php" class="button6">List Parts Requests</a>&nbsp;&nbsp;</p>

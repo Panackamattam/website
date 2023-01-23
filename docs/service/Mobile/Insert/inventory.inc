@@ -1,1 +1,0 @@
-<p align="center">&nbsp;&nbsp;&nbsp;<a href="stockentry.php" class="button6">Stock Entry</a></button>&nbsp;&nbsp;&nbsp;&nbsp;<a href="partsissue.php" class="button6">Parts Issue</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="inventory.php" class="button6">List of Stocks</a>&nbsp;&nbsp;&nbsp;</p>
